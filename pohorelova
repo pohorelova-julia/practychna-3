@@ -1,0 +1,235 @@
+word = input("Enter your word: ")
+for letter in word:
+  
+  if letter =='a': 
+    print(" ### ");
+    print("#   #");
+    print("#   #");
+    print("# # #");
+    print("#   #");
+    print("#   #");
+    print("#   #");
+
+  if letter =='b': 
+    print("#### ")
+    print("#   #")
+    print("#   #")
+    print("#### ")
+    print("#   #")
+    print("#   #")
+    print("#### ")
+
+  if letter =='c': 
+    print(" ### ")
+    print("#   #")
+    print("#")
+    print("#")
+    print("#")
+    print("#   #")
+    print(" ### ")
+
+  if letter =='d': 
+    print("####")
+    print("#   #")
+    print("#   #")
+    print("#   #")
+    print("#   #")
+    print("#   #")
+    print("#### ")
+
+  if letter =='e':
+    print("# # #")
+    print("#")
+    print("#")
+    print("# # #")
+    print("#")
+    print("#")
+    print("# # #")
+
+  if letter =='f': 
+    print("# # #")
+    print("#")
+    print("#")
+    print("# # #")
+    print("#")
+    print("#")
+    print("#")
+ 
+  if letter =='g': 
+    print(" ### ")
+    print("#   #")
+    print("#")
+    print("#  ##")
+    print("#   #")
+    print("#   #")
+    print(" ### ")
+ 
+  if letter =='h':
+    print("#   #")
+    print("#   #")
+    print("#   #")
+    print("# # #")
+    print("#   #")
+    print("#   #")
+    print("#   #")
+
+  if letter =='i': 
+    print(" ###")
+    print("  # ")
+    print("  # ")
+    print("  # ")
+    print("  # ")
+    print("  # ")
+    print(" ###")
+ 
+  if letter =='j':
+    print(" ###")
+    print("  #")
+    print("  #")
+    print("  #")
+    print("  #")
+    print("  #")
+    print("##")
+
+  if letter =='k':
+    print("#   #")
+    print("#  #")
+    print("# #")
+    print("##")
+    print("# #")
+    print("#  #")
+    print("#   #")
+  
+  if letter =='l':
+    print("#")
+    print("#")
+    print("#")
+    print("#")
+    print("#")
+    print("#")
+    print("#####")
+       
+  if letter =='m':
+    print("#   #")
+    print("#   #")
+    print("## ##")
+    print("# # #")
+    print("#   #")
+    print("#   #")
+    print("#   #")
+
+  if letter =='n':
+    print("#   #")
+    print("#   #")
+    print("##  #")
+    print("# # #")
+    print("#  ##")
+    print("#   #")
+    print("#   #")
+ 
+  if letter =='o':
+    print(" ###")
+    print("#   #")
+    print("#   #")
+    print("#   #")
+    print("#   #")
+    print("#   #")
+    print(" ###")
+  
+  if letter =='p':
+    print("####")
+    print("#   #")
+    print("#   #")
+    print("####")
+    print("#")
+    print("#")
+    print("#")
+
+  if letter =='q':
+    print(" ###")
+    print("#   #")
+    print("#   #")
+    print("#   #")
+    print("#   #")
+    print("#  #")
+    print(" ## #")
+       
+  if letter =='r':
+    print("####")
+    print("#   #")
+    print("#   #")
+    print("####")
+    print("# #")
+    print("#  #")
+    print("#   #")
+  
+  if letter =='s': 
+    print(" ####")
+    print("#")
+    print("#")
+    print(" ###")
+    print("    #")
+    print("    #")
+    print(" ###")
+
+  if letter =='t':
+    print("#####")
+    print("  #")
+    print("  #")
+    print("  #")
+    print("  #")
+    print("  #")
+    print("  #")
+ 
+  if letter =='u':
+    print("#   #")
+    print("#   #")
+    print("#   #")
+    print("#   #")
+    print("#   #")
+    print("#   #")
+    print(" ###")
+
+  if letter =='v':
+    print("#   #")
+    print("#   #")
+    print("#   #")
+    print("#   #")
+    print("#   #")
+    print(" # #")
+
+  if letter =='w':
+    print("#   #")
+    print("#   #")
+    print("#   #")
+    print("# # #")
+    print("## ##")
+    print("#   #")
+    print("#   #")
+
+  if letter =='x':
+    print("#   #")
+    print("#   #")
+    print(" # #")
+    print("  #")
+    print(" # #")
+    print("#   #")
+    print("#   #")
+
+  if letter =='y':
+    print("#   #")
+    print("#   #")
+    print(" # #")
+    print("  #")
+    print("  #")
+    print("  #")
+    print("  #")
+ 
+  if letter =='z':
+    print("#####")
+    print("    #")
+    print("   #")
+    print("  #")
+    print(" #")
+    print("#")
+    print("#####")
